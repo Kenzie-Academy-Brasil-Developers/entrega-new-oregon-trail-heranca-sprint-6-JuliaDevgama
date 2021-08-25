@@ -25,8 +25,8 @@ class GuardDog extends Dog {
       // barking code here
    }
 }
-```
-
+****
+****
 Nesta Entrega, você irá estender seu código do Oregon Trail para usar herança para criar dois novos tipos de viajantes: `Hunter` (Caçador) e `Doctor` (Médico). Eles terão **todas** as outras características de qualquer outro **Viajante**, com essas diferenças:
 
 ## Hunter
