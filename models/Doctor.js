@@ -1,4 +1,3 @@
-const Traveler  = require("./models/Traveler");
 
 class Doctor extends Traveler {
     constructor(nome){

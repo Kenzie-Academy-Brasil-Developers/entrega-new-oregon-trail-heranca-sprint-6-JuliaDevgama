@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cucumber-js"
   },
-  "author": "julia",
+  "author": "victor@kenzie.com.br",
   "license": "ISC",
   "devDependencies": {
     "@cucumber/cucumber": "^7.3.1"

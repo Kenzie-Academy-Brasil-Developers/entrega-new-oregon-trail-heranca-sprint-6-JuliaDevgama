@@ -24,7 +24,7 @@ Cenário: Comeu e ficou doente
     Então a quantidade de refeições deve ser igual a 0
     E o Hunter ficará doente
 
-Cenário: Transfere refeições pararefeições para outro outro
+Cenário: Transfere refeições para outro
     Quando o Hunter transferir 1 refeições para outro viajante
     Então o viajante recebe 1 refeições
 
